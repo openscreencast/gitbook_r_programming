@@ -6,7 +6,7 @@
 * [einfache Rechenfunktionen durchführen](einfache_rechenfunktionen_durchfuehren.md)
 * [Nachkommastellen](nachkommastellen.md)
 * [Runden](runden.md)
-* [Variablen](varialen.md)
+* [Variablen](variablen.md)
 * [einfache Datentypen](einfache_datentypen.md)
 * [RStudio installieren und starten](rstudio_installieren_und_starten.md)
 * [Zeichenketten](zeichenketten.md)
