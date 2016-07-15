@@ -1,3 +1,11 @@
-# My Awesome Book
+# R
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# Status
+
+in Arbeit (Experiment)
+
+# Lizenz
+
+[CC by](https://creativecommons.org/licenses/by/4.0/de/)
+
+
